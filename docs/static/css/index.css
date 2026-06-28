@@ -1,0 +1,26 @@
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.publication-title {
+  font-family: 'Google Sans', sans-serif;
+}
+
+.publication-authors {
+  font-family: 'Google Sans', sans-serif;
+}
+
+.author-block {
+  display: inline-block;
+}
+
+.coming-soon {
+  margin-top: 1.5rem;
+  color: #d97706;
+  font-weight: 600;
+}
+
+.link-block > .button {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
